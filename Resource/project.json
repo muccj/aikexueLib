@@ -1,0 +1,18 @@
+{
+    "debugMode": 1, 
+    "engineDir": "frameworks/cocos2d-html5", 
+    "frameRate": 60, 
+    "id": "gameCanvas", 
+    "jsList": [
+        "src/assetsManagerScene.js"
+    ], 
+    "modules": [
+        "cocos2d", 
+        "cocostudio", 
+        "external"
+    ], 
+    "noCache": false, 
+    "project_type": "javascript", 
+    "renderMode": 0, 
+    "showFPS": false
+}
